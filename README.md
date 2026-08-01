@@ -1,4 +1,23 @@
-# 💫 About Me:
+<div align="center">
+
+<h3><code>sushant@github ~ $ ./contributions.sh</code></h3>
+<img src="./contrib-heatmap.svg" width="860" />
+
+<br><br>
+
+<h3><code>sushant@github ~ $ whoami</code></h3>
+<table>
+  <tr>
+    <td valign="top"><img src="./avi-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+
 ### Hi 👋 I'm Sushant<br><br>I'm a **Computer Science Engineering student** with an interest in programming and problem solving.<br>Currently focusing on building a strong foundation in **Java and Data Structures & Algorithms**.<br><br>🌱 **Currently learning**<br><br>* Java Programming<br>* Data Structures & Algorithms<br><br>💡 **Interests**<br><br>* Problem Solving<br>* Understanding core Computer Science concepts<br>* Exploring software development<br><br>📫 **Goal**<br>To continuously improve my programming skills and build practical knowledge in software development.<br>
 
 
