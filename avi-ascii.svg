@@ -1,0 +1,1266 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="530" height="693"
+  viewBox="0 0 530 693">
+  <rect width="100%" height="100%" fill="transparent" />
+  <g>
+  <clipPath id="clip0">
+    <rect x="14" y="12.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.000s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row0" x="14" y="21.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip0)">%%%%%%%%%%@%%%%%%%%%%%%%%%%%%##%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%####sc=:#@%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur0" x="14" y="12.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.000s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.000s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip1">
+    <rect x="14" y="21.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.055s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row1" x="14" y="31.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip1)">%%%%%%%%###%%%%%%%%%%#%%############%%%%%%%%%%%%%%%%%%%%%%%%%%#####cc=:%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur1" x="14" y="21.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.055s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.055s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip2">
+    <rect x="14" y="31.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.110s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row2" x="14" y="40.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip2)">%%%%%%#####%%############%%%#########%%%%%%%%%%%%%%%%%%%%%%%%%%%##scc-:%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur2" x="14" y="31.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.110s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.110s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip3">
+    <rect x="14" y="40.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.165s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row3" x="14" y="50.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip3)">%%%%#%%###sss###%#######%%%%%#s######%%%%%%%%%%%%%%%%%%%%%%%%%%%###cc-:%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur3" x="14" y="40.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.165s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.165s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip4">
+    <rect x="14" y="50.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.220s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row4" x="14" y="59.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip4)">########ssss#######sss##%%%%%%########%%%%%%%%%%%%%%%%%%%%%%%%%%###cc--%%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur4" x="14" y="50.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.220s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.220s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip5">
+    <rect x="14" y="59.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.275s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row5" x="14" y="69.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip5)">#######sss#####sssssss#%%%%%%%%###s#####%%%%%%%%%%%%%%%%%%%%%%####scc:-@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur5" x="14" y="59.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.275s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.275s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip6">
+    <rect x="14" y="69.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.330s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row6" x="14" y="78.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip6)">#sssssssss######s#sss####%%%%############%%%%%%%%%%%%%%%%%%%#####sscc:-@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur6" x="14" y="69.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.330s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.330s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip7">
+    <rect x="14" y="78.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.385s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row7" x="14" y="88.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip7)">ssssss####%################sssssss########%%%%%%%%%%%%%%%%%%#####ssc*`-@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur7" x="14" y="78.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.385s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.385s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip8">
+    <rect x="14" y="88.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.440s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row8" x="14" y="97.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip8)">##########################ssssssss#########%%%%%%%%%%%%%%%%#######sc*`=@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur8" x="14" y="88.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.440s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.440s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip9">
+    <rect x="14" y="97.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.495s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row9" x="14" y="107.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip9)">#####################################%%###%%%%%%%%%%%%%%%%%#######sc*`=@%%%%%%%##%%%%%%#########</text>
+  <rect id="cur9" x="14" y="97.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.495s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.495s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip10">
+    <rect x="14" y="107.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.550s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row10" x="14" y="116.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip10)">#############%#####%##%%########%%#%#%###%##%#%%%%%%%%%%%%%%######sc*.+@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur10" x="14" y="107.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.550s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.550s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip11">
+    <rect x="14" y="116.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.605s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row11" x="14" y="126.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip11)">#############%%%%%%%%%%#####%###%%%%%%#%%%%##%%%%%%%%%%%%%%%%#####sc+.*@%%%%%%%%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur11" x="14" y="116.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.605s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.605s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip12">
+    <rect x="14" y="126.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.660s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row12" x="14" y="135.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip12)">#####%%%%%%%%%%%%%%%%%%###%%%##%%%%%%%%%%%%#%%%%%%%%%%%%%%%%%%#####c+.*@%%%%%%%%%%%%%%%%%%%%%%%#</text>
+  <rect id="cur12" x="14" y="126.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.660s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.660s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip13">
+    <rect x="14" y="135.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.715s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row13" x="14" y="145.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip13)">####%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%%%%####sc+.c%%%%%%%#%%%%%%%%%%%%%%%%%</text>
+  <rect id="cur13" x="14" y="135.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.715s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.715s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip14">
+    <rect x="14" y="145.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.770s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row14" x="14" y="154.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip14)">######%%%%%%%%%%%%%%%##%%#%%%%%%%%%%%%%%%%#####%%%%%%%%%%%%%%#####sc=`s@@@@@@@@@@@@@@@@@@@@@@@@@</text>
+  <rect id="cur14" x="14" y="145.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.770s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.770s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip15">
+    <rect x="14" y="154.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.825s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row15" x="14" y="164.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip15)">#############%%##%%#########%%%%%%%%%%%%%%%#####%%%%%%%%%%%%######c*-`=++++++++++***************</text>
+  <rect id="cur15" x="14" y="154.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.825s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.825s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip16">
+    <rect x="14" y="164.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.880s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row16" x="14" y="173.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip16)">#############################%##%%#%#####%#####%%%%%%%%%%%%%%##sss=:::`````````.................</text>
+  <rect id="cur16" x="14" y="164.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.880s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.880s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip17">
+    <rect x="14" y="173.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.935s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row17" x="14" y="183.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip17)">sssssssss#s##s################################%%%%%%@@@@%%%%###scccc*+****++++++++++++++++++++++</text>
+  <rect id="cur17" x="14" y="173.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.935s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.935s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip18">
+    <rect x="14" y="183.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="0.990s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row18" x="14" y="192.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip18)">csssssssssssss##s#ssssss#########################%@#**cs#@%%%##%%###sssssscccccccccccccccccccscc</text>
+  <rect id="cur18" x="14" y="183.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="0.990s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="0.990s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip19">
+    <rect x="14" y="192.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.045s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row19" x="14" y="202.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip19)">cscccssss#sssss###ss########################%%%%%%*   ..`=#%%%%%%scccccccccccccccccccccccccccccc</text>
+  <rect id="cur19" x="14" y="192.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.045s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.045s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip20">
+    <rect x="14" y="202.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.100s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row20" x="14" y="211.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip20)">ccccsssssssssss#######################ss#######%%- :-:... `#%###sccccccccccccccccccccccccccccccc</text>
+  <rect id="cur20" x="14" y="202.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.100s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.100s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip21">
+    <rect x="14" y="211.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.155s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row21" x="14" y="221.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip21)">sssssssssssssssss#####sss############ssss######%%:`++**==: s%####ccsssssccccssssssssssssssssssss</text>
+  <rect id="cur21" x="14" y="211.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.155s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.155s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip22">
+    <rect x="14" y="221.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.210s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row22" x="14" y="230.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip22)">sssssssssssssssss###sssss##############ssss####%#-+=:=+:=+-s%%%%################################</text>
+  <rect id="cur22" x="14" y="221.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.210s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.210s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip23">
+    <rect x="14" y="230.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.265s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row23" x="14" y="240.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip23)">sssssssssssssss##############%###############%%%%***+**+**+#@%%%%%%%%%%%%%%%%%%%%%#%%%%%%%%%%%%%</text>
+  <rect id="cur23" x="14" y="230.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.265s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.265s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip24">
+    <rect x="14" y="240.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.320s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row24" x="14" y="249.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip24)">***************************************ccccccccsss*+====+*csccccccccccccccccccc*c*****c*cccc***c</text>
+  <rect id="cur24" x="14" y="240.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.320s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.320s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip25">
+    <rect x="14" y="249.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.375s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row25" x="14" y="259.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip25)">################ssssssssssss#sc#sssssssss########cc==+++*###ssssssssssssssssccc*cccccccccccccccc</text>
+  <rect id="cur25" x="14" y="249.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.375s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.375s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip26">
+    <rect x="14" y="259.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.430s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row26" x="14" y="268.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip26)">##############################s######%##%###ssc+=:##*=+s*+cs%%%%%%%%%%######s#%s###############%</text>
+  <rect id="cur26" x="14" y="259.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.430s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.430s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip27">
+    <rect x="14" y="268.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.485s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row27" x="14" y="278.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip27)">##############################s######%%%s++++=-::`s#*++%-:``=**c###############s################</text>
+  <rect id="cur27" x="14" y="268.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.485s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.485s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip28">
+    <rect x="14" y="278.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.540s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row28" x="14" y="287.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip28)">##############################s#####%###=-=+==--::s#+-c+:--:---:+%#############s################</text>
+  <rect id="cur28" x="14" y="278.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.540s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.540s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip29">
+    <rect x="14" y="287.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.595s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row29" x="14" y="297.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip29)">##############################s#####*=-+=::=------#@+=#+-=--:::`-#%############s################</text>
+  <rect id="cur29" x="14" y="287.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.595s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.595s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip30">
+    <rect x="14" y="297.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.650s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row30" x="14" y="306.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip30)">##############################s###%c-=*-::.-=--:=-##+**==-:``:.`:+%#%##########s################</text>
+  <rect id="cur30" x="14" y="297.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.650s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.650s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip31">
+    <rect x="14" y="306.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.705s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row31" x="14" y="316.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip31)">##############################s###%c--==:`.`:--``-%c+*+::````..`:-c%#%#########s################</text>
+  <rect id="cur31" x="14" y="306.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.705s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.705s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip32">
+    <rect x="14" y="316.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.760s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row32" x="14" y="325.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip32)">##############################s###%#-----. `:-:`-=#c*+--.`...  `:==c%##########s################</text>
+  <rect id="cur32" x="14" y="316.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.760s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.760s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip33">
+    <rect x="14" y="325.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.815s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row33" x="14" y="335.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip33)">##############################s#####=-=-:` .``:`=*#*c=::....  .:-::-#%#########s################</text>
+  <rect id="cur33" x="14" y="325.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.815s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.815s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip34">
+    <rect x="14" y="335.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.870s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row34" x="14" y="344.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip34)">##############################s####%*:::`    .``-s#***=-:-=====+=-::=##########s############scs#</text>
+  <rect id="cur34" x="14" y="335.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.870s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.870s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip35">
+    <rect x="14" y="344.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.925s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row35" x="14" y="354.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip35)">##############################s####%:`-==:. ...+#%%%%##%s++=--:::::`-%%########s############scss</text>
+  <rect id="cur35" x="14" y="344.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.925s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.925s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip36">
+    <rect x="14" y="354.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="1.980s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row36" x="14" y="363.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip36)">##############################c--+==-.:-=c*+=:*@%%%%#c=-+```::-:-=--*#%%%######s############ccss</text>
+  <rect id="cur36" x="14" y="354.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="1.980s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="1.980s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip37">
+    <rect x="14" y="363.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.035s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row37" x="14" y="373.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip37)">##############################sc= =##: `=*s##s++**=-``--.:--=++==++*+s%#####################ccss</text>
+  <rect id="cur37" x="14" y="363.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.035s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.035s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip38">
+    <rect x="14" y="373.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.090s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row38" x="14" y="382.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip38)">##############################s%s *%%s..``cs@@%##c-=+==++++=----:::=%%%%%#####s#############csss</text>
+  <rect id="cur38" x="14" y="373.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.090s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.090s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip39">
+    <rect x="14" y="382.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.145s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row39" x="14" y="392.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip39)">##############################s%* =%%*`:--=*sssc***++++++=-:``````.+%%%%%#####s#############csss</text>
+  <rect id="cur39" x="14" y="382.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.145s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.145s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip40">
+    <rect x="14" y="392.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.200s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row40" x="14" y="401.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip40)">##############################s%*`-cc*+==++***+======--`.......  .:s%%%%%#####s#############cs#s</text>
+  <rect id="cur40" x="14" y="392.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.200s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.200s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip41">
+    <rect x="14" y="401.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.255s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row41" x="14" y="411.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip41)">##############################s%s=*+*c*-.. .+=====-:`.   ....   . =%#%%#######s#############s##s</text>
+  <rect id="cur41" x="14" y="401.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.255s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.255s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip42">
+    <rect x="14" y="411.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.310s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row42" x="14" y="420.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip42)">##############################s*+++=-``.. `.`=-:`.                =%##########s#############s###</text>
+  <rect id="cur42" x="14" y="411.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.310s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.310s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip43">
+    <rect x="14" y="420.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.365s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row43" x="14" y="430.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip43)">###############################*-=::. .  :=-...                .. =%#%########s#################</text>
+  <rect id="cur43" x="14" y="420.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.365s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.365s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip44">
+    <rect x="14" y="430.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.420s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row44" x="14" y="439.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip44)">##############ssss#s#########ss#-`. .`. .`:::.... ...`. ....`````:#%###%###%##s#%#########%##%%#</text>
+  <rect id="cur44" x="14" y="430.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.420s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.420s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip45">
+    <rect x="14" y="439.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.475s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row45" x="14" y="449.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip45)">---------:-------------------====`-`.   .`::::.   .  ............-+++++====================*#%%%</text>
+  <rect id="cur45" x="14" y="439.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.475s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.475s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip46">
+    <rect x="14" y="449.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.530s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row46" x="14" y="458.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip46)">--------:::---:-::::-:::-----=--=+=:---`.`:-:::.   ````::::::---===-==----:::-:::::::::::::+##%%</text>
+  <rect id="cur46" x="14" y="449.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.530s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.530s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip47">
+    <rect x="14" y="458.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.585s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row47" x="14" y="468.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip47)">+++++=+++++++======++==+=+++==++++==+*c:.`:--`::: :ccccccccc*c**********+=================-*##%%</text>
+  <rect id="cur47" x="14" y="458.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.585s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.585s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip48">
+    <rect x="14" y="468.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.640s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row48" x="14" y="477.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip48)">**cccccccc*cccc*cc****cccccccccccsss###-``:--::c-.-ssccssssccc*cc********+*++++++++++++++++c#%%%</text>
+  <rect id="cur48" x="14" y="468.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.640s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.640s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip49">
+    <rect x="14" y="477.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.695s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row49" x="14" y="487.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip49)">s##############ss#####%%%%%%%%%%%%%%%%@=``:--:-c:`-#%%%%%%####ssscccccccccsscccccccccccccc*s#%%%</text>
+  <rect id="cur49" x="14" y="477.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.695s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.695s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip50">
+    <rect x="14" y="487.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.750s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row50" x="14" y="496.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip50)">###%%%%%%%%%#####%%%%%%%%%%%%%%%%%%%%%%*``::-::=:`:*%########ssscccccccccccccc*ccccccccccc*s###%</text>
+  <rect id="cur50" x="14" y="487.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.750s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.750s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip51">
+    <rect x="14" y="496.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.805s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row51" x="14" y="506.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip51)">%%%###%#%%%#%%%%%%%%%%%%#%%###s#%%%%%%@c``:`::`-:`:*%####%####ssssssssccccccsccccccccccccccc###%</text>
+  <rect id="cur51" x="14" y="496.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.805s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.805s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip52">
+    <rect x="14" y="506.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.860s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row52" x="14" y="515.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip52)">###sss################%#######s####%%#cc``:`::`-:``=@%#%*=#@%%@@@@@%%%%%%%%%%%%@%%%%%%%%%%%s#%%%</text>
+  <rect id="cur52" x="14" y="506.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.860s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.860s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip53">
+    <rect x="14" y="515.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.915s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row53" x="14" y="525.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip53)">#####################%%######sss###%%--#``:````++==-==+*=`*###%%%##%####%%%%%##%%%%%%%#%%##s#%%%</text>
+  <rect id="cur53" x="14" y="515.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.915s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.915s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip54">
+    <rect x="14" y="525.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="2.970s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row54" x="14" y="534.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip54)">####################%#scccc*cccccsss*=++``:```.===++===--::-+**####sssssssssccccssss###ssscs#%%%</text>
+  <rect id="cur54" x="14" y="525.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="2.970s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="2.970s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip55">
+    <rect x="14" y="534.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.025s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row55" x="14" y="544.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip55)">sssssssssscsss#####%#cc********+s#c+*+:-:``.`.`#ss+s%##s*:.:ssssssccsccccccccccccsscss##sccs#%%%</text>
+  <rect id="cur55" x="14" y="534.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.025s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.025s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip56">
+    <rect x="14" y="544.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.080s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row56" x="14" y="553.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip56)">sss###sssss#######%%ssscccc****ccc*cc=+**`...` *##=`ssss+:--+*cccsc:=scccc*********cccssscc##%%%</text>
+  <rect id="cur56" x="14" y="544.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.080s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.080s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip57">
+    <rect x="14" y="553.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.135s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row57" x="14" y="563.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip57)">########################sscc**-:`=c**=+c#:...`.-scc+%*++-:-====++*=..:**+++++++++++++*****+=s%%%</text>
+  <rect id="cur57" x="14" y="553.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.135s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.135s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip58">
+    <rect x="14" y="563.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.190s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row58" x="14" y="572.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip58)">##s#######sss#####scscc***++++` .`+++==+c=...`.-sc+%@+=-::-==-----: . -+===========-==++++=::c@@</text>
+  <rect id="cur58" x="14" y="563.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.190s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.190s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip59">
+    <rect x="14" y="572.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.245s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row59" x="14" y="582.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip59)">sssss#s###ss######cc**++=====+::::=+++==**`....*s*:-+=----========:```-==--------=====+++++=-:=#</text>
+  <rect id="cur59" x="14" y="572.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.245s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.245s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip60">
+    <rect x="14" y="582.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.300s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row60" x="14" y="591.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip60)">#sss#############c***+++++++++---=++*****+: .:`--.` `==++++++++===-:::=================+**+-==--</text>
+  <rect id="cur60" x="14" y="582.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.300s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.300s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip61">
+    <rect x="14" y="591.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.355s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row61" x="14" y="601.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip61)">################scc**+++++++++==+********:`:-:`.`..`--======+++===--===++=+==++++=++====+*+-==+=</text>
+  <rect id="cur61" x="14" y="591.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.355s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.355s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip62">
+    <rect x="14" y="601.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.410s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row62" x="14" y="610.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip62)">%##%#######%########ssssssssccccc*******-::--:`:-::-=======+====+***+++++++++++++*ssc*+++++===++</text>
+  <rect id="cur62" x="14" y="601.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.410s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.410s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip63">
+    <rect x="14" y="610.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.465s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row63" x="14" y="620.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip63)">cccccccccsccccccccccccc***csc*****++***=--..:::---=-=++++++===+***+***+++++====++*s#c*++++=****c</text>
+  <rect id="cur63" x="14" y="610.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.465s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.465s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip64">
+    <rect x="14" y="620.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.520s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row64" x="14" y="629.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip64)">*******cc***ccc*c**+++++++**+*c*****cc*-:::`..:----+s*+**++++*****+****++++=+++++***++++++=+cscc</text>
+  <rect id="cur64" x="14" y="620.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.520s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.520s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip65">
+    <rect x="14" y="629.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.575s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row65" x="14" y="639.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip65)">***cc*cc***cccccs**++++++**+****c#sss#c=....`-==---+c***cccccssc*csccc*++*++***+++++++**+*+=+s%#</text>
+  <rect id="cur65" x="14" y="629.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.575s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.575s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip66">
+    <rect x="14" y="639.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.630s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row66" x="14" y="648.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip66)">***********ccccccccc******cs#scs####s##s*+*****+++=*cscs####s#ssccssssccc**cccccc*ccc*******++s@</text>
+  <rect id="cur66" x="14" y="639.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.630s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.630s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip67">
+    <rect x="14" y="648.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.685s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row67" x="14" y="658.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip67)">**ccccccccssccsssscc*****ss###scsssscssssssscc*+++*cs#cs#s#%##s#s#sss##ssss#ss#sccssscsss##scccs</text>
+  <rect id="cur67" x="14" y="648.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.685s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.685s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip68">
+    <rect x="14" y="658.0" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.740s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row68" x="14" y="667.5" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip68)">*cccccccc#%#sss###%#scs#s###%##ccsscccc**c*c##ccccc*s%cccc#s######ss##%########ss#s##ss#sscc*ccc</text>
+  <rect id="cur68" x="14" y="658.0" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.740s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.740s" dur="0.5s" fill="freeze" />
+  </rect>
+  <clipPath id="clip69">
+    <rect x="14" y="667.5" width="0" height="13.5">
+      <animate attributeName="width" from="0" to="501.6"
+        begin="3.795s" dur="0.5s" fill="freeze"
+        calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    </rect>
+  </clipPath>
+  <text id="row69" x="14" y="677.0" xml:space="preserve"
+    font-family="SFMono-Regular, Consolas, 'Liberation Mono', Menlo, monospace" font-size="9.5" fill="#c9d1d9"
+    clip-path="url(#clip69)">ccsssssss##s#####%%#s#%%s#####s##%#ssc***cccsssssc#sc%sccs#sccssss#%%%%##%##s#s##ss#sc****++**cs</text>
+  <rect id="cur69" x="14" y="667.5" width="5.23"
+    height="13.5" fill="#c9d1d9" opacity="0">
+    <animate attributeName="x" from="14" to="515.6"
+      begin="3.795s" dur="0.5s" fill="freeze"
+      calcMode="spline" keySplines="0.25 0.1 0.25 1" />
+    <animate attributeName="opacity" values="0;0.85;0.85;0" keyTimes="0;0.05;0.9;1"
+      begin="3.795s" dur="0.5s" fill="freeze" />
+  </rect>
+  </g>
+</svg>
