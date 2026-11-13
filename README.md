@@ -1,4 +1,5 @@
- <div align="center">
+
+<div align="center">
 
 <h3><code>sushant@github ~ $ whoami</code></h3>
 
@@ -69,20 +70,10 @@ Currently exploring **Backend Development, Distributed Systems, and Full Stack D
 ### 🚀 Featured Projects
 
 - **[TrafficShield – Distributed Flow Control Gateway](https://github.com/sushant-1212/distributed-rate-limiter)**  
-  Distributed rate limiting, hierarchical token leasing, adaptive concurrency control and real-time observability.
+  Distributed rate limiting, hierarchical token leasing, adaptive concurrency control, and real-time observability.
 
 - **[LRU Cache Proxy](https://github.com/sushant-1212/lru-cache-proxy)**  
-  High-performance caching proxy with LRU/LFU eviction, HTTP caching and Singleflight request coalescing.
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=sushant-1212&show_icons=true&theme=github_dark&hide_border=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushant-1212&layout=compact&theme=github_dark&hide_border=true" height="165" />
-
-</div>
+  High-performance caching proxy with LRU/LFU eviction, HTTP caching, and Singleflight request coalescing.
 
 ### 🧩 Coding Profiles
 
@@ -96,5 +87,6 @@ Currently exploring **Backend Development, Distributed Systems, and Full Stack D
 **Always learning. Always building. Always improving. 🚀**
 
 </div>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
